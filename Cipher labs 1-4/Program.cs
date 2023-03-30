@@ -66,6 +66,7 @@
 Console.WriteLine("RSA (lab3)");
 EDSRSA rsa = new EDSRSA();
 rsa.Check("Hello");
+Console.WriteLine();
 
 #endregion
 
@@ -78,3 +79,5 @@ GQ.Cipher();
 #endregion
 
 Console.ReadLine();
+
+//Yasper McGlot
